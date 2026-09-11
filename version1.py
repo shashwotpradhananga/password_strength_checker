@@ -1,4 +1,3 @@
-
 #So this is my initial project, I am developing a password strength checker 
 #This a version 1, As the versions of AI, It's version will also keep on developing as I keep learning
 
